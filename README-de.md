@@ -1,5 +1,8 @@
 # billiger-mcp 🛒
 
+> ⚠️ **Status: DEGRADED (2026-11-12)** — billiger.de blockiert derzeit den automatisierten Zugriff (HTTP 403) aus dieser Umgebung. Alle Tools geben einen klaren „blocked“-Fehler zurück, bis die Seite den Zugriff wieder erlaubt. Aktuellen Status mit `billiger_health` prüfen.
+
+
 mcp-name: io.github.mohammad-abbasi-sh/billiger-mcp
 
 Inoffizieller **nur lesender** MCP-Server für **[billiger.de](https://www.billiger.de)** — Deutscher Preisvergleich von billiger.de (kostenlos, kein Schlüssel, kein Login): Produkte mit Bestpreisen suchen, Shop-Angebote vergleichen und Tagesdeals. Kein Schlüssel, keine Anmeldung.
